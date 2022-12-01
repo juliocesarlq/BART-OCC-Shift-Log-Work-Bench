@@ -47,6 +47,8 @@ Time spent: Fall 2021 (August - December)
 * Integrated the ability to rapidly add search tags to incident log entries by using text auto-complete function improving data storage for optimal categorization and search-ability.
 * Created database to store incident logs using SQL Alchemy and created tool to search through database with various criteria and display data in a quick and efficient manner.
 
+![Employee data](/github-imgs/bart-login.png?raw=true "Employee Data title")
+
 ## Technologies
 * Python
 * Flask
