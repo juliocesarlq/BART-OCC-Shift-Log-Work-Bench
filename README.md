@@ -60,15 +60,15 @@ Time spent: Fall 2021 (August - December)
 
 ### Add frequently used templates using keyboard bindings
 
-![BART Login](/github-imgs/bart-3.png?raw=true "BART OCC Login")
+![BART Login](/github-imgs/bart-3.png?raw=true "BART Keyboard Bindings")
 
 ### Rapidly add search tags using text auto-complete
 
-![BART Login](/github-imgs/bart-4.png?raw=true "BART OCC Login")
+![BART Login](/github-imgs/bart-4.png?raw=true "BART Add Search Tags")
 
-### Register new user to control center incident log system
+### Search for incident logs using multiple parameters
 
-![BART Login](/github-imgs/bart-5.png?raw=true "BART OCC Login")
+![BART Login](/github-imgs/bart-5.png?raw=true "BART Search Logs")
 
 ## Technologies
 * Python
