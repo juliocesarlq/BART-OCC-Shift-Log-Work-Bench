@@ -54,7 +54,6 @@ Time spent: Fall 2021 (August - December)
 ![BART Login](/github-imgs/bart-3.png?raw=true "BART OCC Login")
 ![BART Login](/github-imgs/bart-4.png?raw=true "BART OCC Login")
 ![BART Login](/github-imgs/bart-5.png?raw=true "BART OCC Login")
-![BART Login](/github-imgs/bart-6.png?raw=true "BART OCC Login")
 
 
 ## Technologies
