@@ -41,7 +41,7 @@ process optimization.
 Time spent: Fall 2021 (August - December)
 
 ## Solution
-* n/a
+* co-created a web application with three other software engineers to replace system for inputting and classifying event logs and producing end-of-day reports for the operation control center.
 * n/a
 
 ## Instruction for how to use
