@@ -1,10 +1,7 @@
 
-# Operations Control Center (OCC) Shift Log Workbench 
+# Bay Area Rapid Transit (BART) - Operations Control Center (OCC) - Shift Log Workbench 
 
-Bay Area Rapid Transit (BART)
-
-## Summary Of Overall Project
-**Operations Control Center Shift Log Workbench** is a ... 
+## Summary Of Overall Project 
 
 **Background** 
 The Bay Area Rapid Transit District (BART) is familiar to many as one of the country’s premier commuter rail 
