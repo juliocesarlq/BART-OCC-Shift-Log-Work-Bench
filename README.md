@@ -54,9 +54,9 @@ Time spent: Fall 2021 (August - December)
 
 ![BART Login](/github-imgs/bart-login.png?raw=true "BART OCC Login")
 
-### Register new user to control center incident log system
+### Control center incident logs current logs view
 
-![BART Login](/github-imgs/bart-2.png?raw=true "BART OCC Login")
+![BART Login](/github-imgs/bart-2.png?raw=true "BART OCC Current Logs")
 
 ### Register new user to control center incident log system
 
