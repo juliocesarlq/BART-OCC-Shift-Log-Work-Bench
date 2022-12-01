@@ -40,15 +40,22 @@ process optimization.
 
 Time spent: Fall 2021 (August - December)
 
-## Solution
+## Solutions
 * co-created a web application with three other software engineers to replace system for inputting and classifying event logs and producing end-of-day reports for the operation control center.
 * Integrated rich text editor into application, adding over a dozen text functions, increasing ability to create custom and detail oriented reports by using Quill.js tool.
 * Implemented ability to add frequently used templates to incident logs with keyboard shortcuts reducing input time by utilizing keyboard bindings.
 * Integrated the ability to rapidly add search tags to incident log entries by using text auto-complete function improving data storage for optimal categorization and search-ability.
 * Created database to store incident logs using SQL Alchemy and created tool to search through database with various criteria and display data in a quick and efficient manner.
 
-## Instruction for how to use
-
-1. n/a
-2. n/a
-3. n/a
+## Technologies
+* Python
+* Flask
+* mySQL
+* ByCrpt
+* JavaScript
+* Quill.js
+* Awesomplete
+* Cleave.js
+* HTML
+* CSS
+* BootStrap
