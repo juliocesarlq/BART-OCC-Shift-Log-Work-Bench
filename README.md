@@ -48,14 +48,27 @@ Time spent: Fall 2021 (August - December)
 * Created database to store incident logs using SQL Alchemy and created tool to search through database with various criteria and display data in a quick and efficient manner.
 
 
-## Final Product - 1.0 release 
-### Register new user to control center incident log system
-![BART Login](/github-imgs/bart-login.png?raw=true "BART OCC Login")
-![BART Login](/github-imgs/bart-2.png?raw=true "BART OCC Login")
-![BART Login](/github-imgs/bart-3.png?raw=true "BART OCC Login")
-![BART Login](/github-imgs/bart-4.png?raw=true "BART OCC Login")
-![BART Login](/github-imgs/bart-5.png?raw=true "BART OCC Login")
+## Shift Log Work Bench by BART - Initial Release 1.0 
 
+### Register new user to control center incident log system
+
+![BART Login](/github-imgs/bart-login.png?raw=true "BART OCC Login")
+
+### Register new user to control center incident log system
+
+![BART Login](/github-imgs/bart-2.png?raw=true "BART OCC Login")
+
+### Register new user to control center incident log system
+
+![BART Login](/github-imgs/bart-3.png?raw=true "BART OCC Login")
+
+### Register new user to control center incident log system
+
+![BART Login](/github-imgs/bart-4.png?raw=true "BART OCC Login")
+
+### Register new user to control center incident log system
+
+![BART Login](/github-imgs/bart-5.png?raw=true "BART OCC Login")
 
 ## Technologies
 * Python
