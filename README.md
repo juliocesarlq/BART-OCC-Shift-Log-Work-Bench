@@ -40,7 +40,7 @@ process optimization.
 
 Time spent: Fall 2021 (August - December)
 
-## Limitations
+## Solution
 * n/a
 * n/a
 
