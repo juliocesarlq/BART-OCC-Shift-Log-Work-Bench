@@ -1,12 +1,7 @@
 
 # Operations Control Center (OCC) Shift Log Workbench 
-CSE120Project-BART
-
-University of California Merced
 
 Bay Area Rapid Transit (BART)
-
-Submitted by: **Francisco Lira**, **Mercedes Jimenez**, **Julio Lopez**, **Greg**
 
 ## Summary Of Overall Project
 **Operations Control Center Shift Log Workbench** is a ... 
