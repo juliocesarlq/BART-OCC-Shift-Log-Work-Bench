@@ -35,8 +35,6 @@ improve the system. As such, this experience will be a chance for students to cr
 day-to-day functioning of BART, while at the same time developing ideas and feedback to guide future stages of 
 process optimization. 
 
-Time spent: Fall 2021 (August - December)
-
 ## Solutions
 * co-created a web application with three other software engineers to replace system for inputting and classifying event logs and producing end-of-day reports for the operation control center.
 * Integrated rich text editor into application, adding over a dozen text functions, increasing ability to create custom and detail oriented reports by using Quill.js tool.
