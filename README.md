@@ -49,6 +49,7 @@ Time spent: Fall 2021 (August - December)
 
 
 ## Final Product - 1.0 release 
+### Register new user to control center incident log system
 ![BART Login](/github-imgs/bart-login.png?raw=true "BART OCC Login")
 ![BART Login](/github-imgs/bart-2.png?raw=true "BART OCC Login")
 ![BART Login](/github-imgs/bart-3.png?raw=true "BART OCC Login")
