@@ -1,5 +1,5 @@
 
-# Bay Area Rapid Transit (BART) - Operations Control Center (OCC) - Shift Log Workbench 🚆💻👷🏽‍♂️
+# Bay Area Rapid Transit (BART) - Operations Control Center (OCC) - Shift Log Workbench 🚆👷🏽‍♂️⌨️
 
 ## Summary Of Overall Project 
 
