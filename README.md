@@ -31,7 +31,7 @@ accessible via web browser so that staff can work via tablet, laptop, or desktop
 **Objective**
 This project will be the first step in an iterative effort by the District to improve OCC event reporting. Over time, 
 machine learning and natural language processing will be incorporated in order to further automate and 
-improve the system. As such, this experience will be a chance for students to create a product that improves the 
+improve the system. As such, this experience will be a chance for interns to create a product that improves the 
 day-to-day functioning of BART, while at the same time developing ideas and feedback to guide future stages of 
 process optimization. 
 
