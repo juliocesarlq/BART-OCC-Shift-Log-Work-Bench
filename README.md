@@ -67,13 +67,13 @@ process optimization.
 
 ## Technologies
 * Python
+* JavaScript
 * Flask
+* HTML
 * mySQL
 * ByCrpt
-* JavaScript
 * Quill.js
 * Awesomplete
 * Cleave.js
-* HTML
 * CSS
 * BootStrap
