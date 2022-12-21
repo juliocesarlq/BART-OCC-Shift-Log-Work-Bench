@@ -44,11 +44,14 @@ process optimization.
 
 ## Initial UI/UX Design
 
+### Home Screen
 ![BART UI Design 1](/github-imgs/ui-design-1.png?raw=true "BART UI Design 1")
+
+### Log View Screen
 ![BART UI Design 1](/github-imgs/ui-design-2.png?raw=true "BART UI Design 1")
+
+### Editor Screen
 ![BART UI Design 1](/github-imgs/ui-design-3.png?raw=true "BART UI Design 1")
-
-
 
 
 ## Shift Log Work Bench by BART - Initial Release 1.0 
