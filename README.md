@@ -42,6 +42,14 @@ process optimization.
 * Integrated the ability to rapidly add search tags to incident log entries by using text auto-complete function improving data storage for optimal categorization and search-ability.
 * Created database to store incident logs using SQL Alchemy and created tool to search through database with various criteria and display data in a quick and efficient manner.
 
+## Initial UI/UX Design
+
+![BART UI Design 1](/github-imgs/ui-design-1.png?raw=true "BART UI Design 1")
+![BART UI Design 1](/github-imgs/ui-design-2.png?raw=true "BART UI Design 1")
+![BART UI Design 1](/github-imgs/ui-design-3.png?raw=true "BART UI Design 1")
+
+
+
 
 ## Shift Log Work Bench by BART - Initial Release 1.0 
 
