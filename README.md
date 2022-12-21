@@ -1,10 +1,7 @@
 
-# Operations Control Center (OCC) Shift Log Workbench 
+# Bay Area Rapid Transit (BART) - Operations Control Center (OCC) - Shift Log Workbench 🚆👷🏽‍♂️⌨️
 
-Bay Area Rapid Transit (BART)
-
-## Summary Of Overall Project
-**Operations Control Center Shift Log Workbench** is a ... 
+## Summary Of Overall Project 
 
 **Background** 
 The Bay Area Rapid Transit District (BART) is familiar to many as one of the country’s premier commuter rail 
@@ -34,11 +31,9 @@ accessible via web browser so that staff can work via tablet, laptop, or desktop
 **Objective**
 This project will be the first step in an iterative effort by the District to improve OCC event reporting. Over time, 
 machine learning and natural language processing will be incorporated in order to further automate and 
-improve the system. As such, this experience will be a chance for students to create a product that improves the 
+improve the system. As such, this experience will be a chance for interns to create a product that improves the 
 day-to-day functioning of BART, while at the same time developing ideas and feedback to guide future stages of 
 process optimization. 
-
-Time spent: Fall 2021 (August - December)
 
 ## Solutions
 * co-created a web application with three other software engineers to replace system for inputting and classifying event logs and producing end-of-day reports for the operation control center.
@@ -47,15 +42,46 @@ Time spent: Fall 2021 (August - December)
 * Integrated the ability to rapidly add search tags to incident log entries by using text auto-complete function improving data storage for optimal categorization and search-ability.
 * Created database to store incident logs using SQL Alchemy and created tool to search through database with various criteria and display data in a quick and efficient manner.
 
+## Initial UI/UX Design
+
+![BART UI Design 1](/github-imgs/ui-design-1.png?raw=true "BART UI Design 1")
+![BART UI Design 1](/github-imgs/ui-design-2.png?raw=true "BART UI Design 1")
+![BART UI Design 1](/github-imgs/ui-design-3.png?raw=true "BART UI Design 1")
+
+
+
+
+## Shift Log Work Bench by BART - Initial Release 1.0 
+
+### Register new user to control center incident log system
+
+![BART Login](/github-imgs/bart-login.png?raw=true "BART OCC Login")
+
+### Control center incident logs current logs view
+
+![BART Login](/github-imgs/bart-2.png?raw=true "BART OCC Current Logs")
+
+### Add frequently used templates using keyboard bindings
+
+![BART Login](/github-imgs/bart-3.png?raw=true "BART Keyboard Bindings")
+
+### Rapidly add search tags using text auto-complete
+
+![BART Login](/github-imgs/bart-4.png?raw=true "BART Add Search Tags")
+
+### Search for incident logs using multiple parameters
+
+![BART Login](/github-imgs/bart-5.png?raw=true "BART Search Logs")
+
 ## Technologies
 * Python
+* JavaScript
 * Flask
+* HTML
 * mySQL
 * ByCrpt
-* JavaScript
 * Quill.js
 * Awesomplete
 * Cleave.js
-* HTML
 * CSS
 * BootStrap
