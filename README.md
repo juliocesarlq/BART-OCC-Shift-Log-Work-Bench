@@ -2,17 +2,14 @@
 # Bay Area Rapid Transit (BART) - Operations Control Center (OCC) - Shift Log Workbench 🚆👷🏽‍♂️⌨️
 
 ## Table of Contents
-1. [Background](#summary)
-    1. [Interaction Plan](#background)
-    2. [Breakdown](#problems)
-3. [Goals and Motivations](#2-Goals-and-Motivations)
-4. [Design Process](#3-Design-Process)
-    1. [Interaction Plan](#31-Interaction-Plan)
-    2. [Breakdown](#32-Breakdown)
-5. [Implementation](#4-Implementation)
-    1. [Hardware](#41-Hardware)
-    2. [Software](#42-Software)
-6. [Example Use Case](#5-Example-Use-Case)
+1. [Summary](#summary)
+    1. [Background](#background)
+    2. [Problem](#problem)
+    3. [Objective](#objective)
+2. [Solutions](#solutions)
+3. [Initial UI/UX Design](#initial-ui/ux-design)
+4. [Shift Log Work Bench by BART - Initial Release 1.0 ](#shift-log-work-bench-by-bart---initial-release-10)
+5. [Technologies](#technologies)
 
 ## Summary
 
@@ -29,7 +26,7 @@ To address this issue, BART Maintenance & Engineering (M&E) hopes to improve the
 categorizing, condensing, extracting, and reporting this data so that District leadership is presented with concise 
 information that is comprehensible at a glance. 
 
-### Problems
+### Problem
 This project will entail developing software tools to streamline and optimize OCC reporting from end to end. As 
 it is, the daily process begins with OCC managers inputting log items to be reviewed and annotated by the 
 relevant Engineering/Maintenance departmental experts, before being published in the daily executive reports 
@@ -41,7 +38,7 @@ data to elegantly present information that is actionable and easily digested. Al
 accessible via web browser so that staff can work via tablet, laptop, or desktop workstation. 
  
  
-**Objective**
+### Objective
 This project will be the first step in an iterative effort by the District to improve OCC event reporting. Over time, 
 machine learning and natural language processing will be incorporated in order to further automate and 
 improve the system. As such, this experience will be a chance for interns to create a product that improves the 
