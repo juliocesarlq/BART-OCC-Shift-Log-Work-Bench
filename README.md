@@ -7,7 +7,7 @@
     2. [Problem](#problem)
     3. [Objective](#objective)
 2. [Solutions](#solutions)
-3. [Initial UI/UX Design](#initial-ui/ux-design)
+3. [UI/UX Design](#ui/ux-design)
 4. [Shift Log Work Bench by BART - Initial Release 1.0 ](#shift-log-work-bench-by-bart---initial-release-10)
 5. [Technologies](#technologies)
 
@@ -52,7 +52,7 @@ process optimization.
 * Integrated the ability to rapidly add search tags to incident log entries by using text auto-complete function improving data storage for optimal categorization and search-ability.
 * Created database to store incident logs using SQL Alchemy and created tool to search through database with various criteria and display data in a quick and efficient manner.
 
-## Initial UI/UX Design
+## UI/UX Design
 
 ### Home Screen
 ![BART UI Design 1](/github-imgs/ui-design-1.png?raw=true "BART UI Design 1")
