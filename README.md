@@ -7,7 +7,7 @@
     2. [Problem](#problem)
     3. [Objective](#objective)
 2. [Solutions](#solutions)
-3. [UI/UX Design](#ui/ux-design)
+3. [UI/UX Design](#uiux-design)
 4. [Shift Log Work Bench by BART - Initial Release 1.0 ](#shift-log-work-bench-by-bart---initial-release-10)
 5. [Technologies](#technologies)
 
