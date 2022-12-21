@@ -2,19 +2,21 @@
 # Bay Area Rapid Transit (BART) - Operations Control Center (OCC) - Shift Log Workbench 🚆👷🏽‍♂️⌨️
 
 ## Table of Contents
-1. [Background](#background)
-2. [Goals and Motivations](#2-Goals-and-Motivations)
-3. [Design Process](#3-Design-Process)
+1. [Background](#summary)
+    1. [Interaction Plan](#background)
+    2. [Breakdown](#problems)
+3. [Goals and Motivations](#2-Goals-and-Motivations)
+4. [Design Process](#3-Design-Process)
     1. [Interaction Plan](#31-Interaction-Plan)
     2. [Breakdown](#32-Breakdown)
-4. [Implementation](#4-Implementation)
+5. [Implementation](#4-Implementation)
     1. [Hardware](#41-Hardware)
     2. [Software](#42-Software)
 6. [Example Use Case](#5-Example-Use-Case)
 
-## Summary Of Overall Project 
+## Summary
 
-**Background** 
+### Background
 The Bay Area Rapid Transit District (BART) is familiar to many as one of the country’s premier commuter rail 
 systems. But some of the most critical work at BART is done in a place the public almost never sees: the 
 Operations Control Center (OCC). Similar to air traffic control, OCC’s staff monitor trains running in the system 
@@ -27,7 +29,7 @@ To address this issue, BART Maintenance & Engineering (M&E) hopes to improve the
 categorizing, condensing, extracting, and reporting this data so that District leadership is presented with concise 
 information that is comprehensible at a glance. 
 
-**Problem**
+### Problems
 This project will entail developing software tools to streamline and optimize OCC reporting from end to end. As 
 it is, the daily process begins with OCC managers inputting log items to be reviewed and annotated by the 
 relevant Engineering/Maintenance departmental experts, before being published in the daily executive reports 
