@@ -1,5 +1,5 @@
 
-# Bay Area Rapid Transit (BART) - Operations Control Center (OCC) - Shift Log Workbench 🚆👷🏽‍♂️⌨️
+# Bay Area Rapid Transit (BART) - Operations Control Center (OCC) - Shift Log Workbench 🚆 👷 ⌨️
 
 ## Table of Contents
 1. [Summary](#summary)
@@ -58,10 +58,10 @@ process optimization.
 ![BART UI Design 1](/github-imgs/bart-7.png?raw=true "BART UI Design 1")
 
 ### Log View Screen
-![BART UI Design 1](/github-imgs/ui-design-2.png?raw=true "BART UI Design 1")
+![BART UI Design 1](/github-imgs/bart-6.png?raw=true "BART UI Design 1")
 
 ### Editor Screen
-![BART UI Design 1](/github-imgs/ui-design-3.png?raw=true "BART UI Design 1")
+![BART UI Design 1](/github-imgs/bart-8.png?raw=true "BART UI Design 1")
 
 
 ## Shift Log Work Bench by BART - Initial Release 1.0 
