@@ -55,7 +55,7 @@ process optimization.
 ## UI/UX Design
 
 ### Home Screen
-![BART UI Design 1](/github-imgs/ui-design-1.png?raw=true "BART UI Design 1")
+![BART UI Design 1](/github-imgs/bart-7.png?raw=true "BART UI Design 1")
 
 ### Log View Screen
 ![BART UI Design 1](/github-imgs/ui-design-2.png?raw=true "BART UI Design 1")
