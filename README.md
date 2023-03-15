@@ -57,10 +57,10 @@ process optimization.
 ### Home Screen
 ![BART UI Design 1](/github-imgs/bart-7.png?raw=true "BART UI Design 1")
 
-### Log View Screen
+### Editor Screen
 ![BART UI Design 1](/github-imgs/bart-6.png?raw=true "BART UI Design 1")
 
-### Editor Screen
+### Log View Screen
 ![BART UI Design 1](/github-imgs/bart-8.png?raw=true "BART UI Design 1")
 
 
